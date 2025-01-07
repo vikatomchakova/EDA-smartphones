@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/EDA-smartphones.git](https://github.com/vikatomchakova/EDA-smartphones.git)
+   git clone https://github.com/yourusername/EDA-smartphones.git](https://github.com/vikatomchakova/EDA-smartphones.git)
    ```
 
 2. Navigate to the project directory:

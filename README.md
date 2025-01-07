@@ -47,5 +47,5 @@ To run this project locally, follow these steps:
 - **Matplotlib**: For visualizations.
 - **Seaborn**: For advanced visualizations.
 - **SciPy**: For statistical analysis and hypothesis testing.
-- **Jupyter**: For running notebooks (if using Jupyter).
+- **Jupyter**: For running notebooks.
 
